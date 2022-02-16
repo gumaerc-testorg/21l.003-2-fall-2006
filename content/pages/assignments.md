@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 7164304b-b9b0-c033-0cf6-48c48d1c91df
 ---
@@ -144,7 +147,7 @@ ORAL PRESENTATION SUBTOPICS
 {{< tdopen >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Austen, Jane. _Northanger Abbey._
 {{< tdclose >}}
 {{< tdopen >}}
@@ -174,7 +177,7 @@ Joseph Damer, Lord Milton
 {{< tdopen >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Scott, Sir Walter. _The Highland Widow._
 {{< tdclose >}}
 {{< tdopen >}}
@@ -201,7 +204,7 @@ The massacre of Glencoe
 {{< tdopen >}}
 9
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Shelley, Mary. _Frankenstein._
 {{< tdclose >}}
 {{< tdopen >}}
@@ -243,7 +246,7 @@ Joseph-Marie Degerando and the _Societe des Observateurs de l'Homme_
 {{< tdopen >}}
 13
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 _Typee._
 {{< tdclose >}}
 {{< tdopen >}}
@@ -264,7 +267,7 @@ Captain James Cook
 {{< tdopen >}}
 15
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Flaubert, Gustave. "A Simple Heart."
 {{< tdclose >}}
 {{< tdopen >}}
@@ -285,7 +288,7 @@ Corpus Christie festival
 {{< tdopen >}}
 17
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Chopin, Kate. _The Awakening._
 {{< tdclose >}}
 {{< tdopen >}}
@@ -315,7 +318,7 @@ Social Darwinism
 {{< tdopen >}}
 20
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Woolf, Virginia. _To the Lighthouse._
 {{< tdclose >}}
 {{< tdopen >}}
@@ -363,7 +366,7 @@ William Cowper, "The Castaway"
 {{< tdopen >}}
 25
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 MacLeod, Alistair. _No Great Mischief._
 {{< tdclose >}}
 {{< tdopen >}}
