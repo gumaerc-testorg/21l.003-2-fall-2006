@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for the required essays and the final
+  portfolio, and a list of topics for the oral presentations.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -40,7 +42,7 @@ INSTRUCTIONS
 Jane Austen
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/essay1))
+({{% resource_link 00a62fde-36d0-7a97-13fe-512834685fd9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +57,7 @@ Jane Austen
 Sir Walter Scott
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/essay2))
+({{% resource_link a2c50442-8300-9947-587b-556b644d1c02 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +72,7 @@ Sir Walter Scott
 Mary Shelley or Herman Melville
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/essay3))
+({{% resource_link 02e6100d-7207-fbc1-214c-93fc6eeff5f2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +87,7 @@ Mary Shelley or Herman Melville
 Gustave Flaubert or Kate Chopin
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/essay4))
+({{% resource_link 4bdd0dd2-e826-ea5d-59b0-edf22b01e10b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +102,7 @@ Gustave Flaubert or Kate Chopin
 Virginia Woolf
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/essay5))
+({{% resource_link d2518b57-5d8c-06a6-38b2-f468010b0566 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

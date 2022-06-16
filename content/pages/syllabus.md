@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course overview with information on
+  attendance and participation, tutorials, written work, oral presentations, monthly
+  progress reports, final grades, recommended citation, and a calendar of lecture
+  topics and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -39,7 +43,7 @@ Plagiarism - use of another's intellectual work without acknowledgement-is a ser
 Oral Presentations
 ------------------
 
-Each student will have the opportunity to research a specific historical or literary reference in one of the assigned works and prepare a factual oral presentation of **no more than five minutes**. Please see [assignments]({{< baseurl >}}/pages/assignments) for more details.
+Each student will have the opportunity to research a specific historical or literary reference in one of the assigned works and prepare a factual oral presentation of **no more than five minutes**. Please see {{% resource_link 7164304b-b9b0-c033-0cf6-48c48d1c91df "assignments" %}} for more details.
 
 Monthly Progress Reports
 ------------------------

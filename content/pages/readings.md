@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section features provides information on required texts, links to
+  their corresponding e-texts and audiobooks, and readings by session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
