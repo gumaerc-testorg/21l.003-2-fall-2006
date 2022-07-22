@@ -6,6 +6,7 @@ file: /courses/21l-003-2-reading-fiction-fall-2006/4bdd0dd2e826ea5d59b0edf22b01e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Essay 4
 uid: 4bdd0dd2-e826-ea5d-59b0-edf22b01e10b
 ---
 Instructions for writing an essay assignment on Gustave Flaubert or Kate Chopin.
-

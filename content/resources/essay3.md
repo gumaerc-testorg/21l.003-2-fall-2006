@@ -6,6 +6,7 @@ file: /courses/21l-003-2-reading-fiction-fall-2006/02e6100d7207fbc1214c93fc6eeff
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Essay 3
 uid: 02e6100d-7207-fbc1-214c-93fc6eeff5f2
 ---
 Instructions for writing an essay assignment on Mary Shelley or Herman Melville.
-

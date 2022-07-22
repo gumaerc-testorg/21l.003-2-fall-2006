@@ -5,6 +5,7 @@ file: /courses/21l-003-2-reading-fiction-fall-2006/a2c5044283009947587b556b644d1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Essay 2
 uid: a2c50442-8300-9947-587b-556b644d1c02
 ---
 Instructions for writing an essay assignment on Sir Walter Scott.
-
