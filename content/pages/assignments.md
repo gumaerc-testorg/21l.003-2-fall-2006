@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides instructions for the required essays and the final
+  portfolio, and a list of topics for the oral presentations.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 7164304b-b9b0-c033-0cf6-48c48d1c91df
 ---
@@ -37,7 +42,7 @@ INSTRUCTIONS
 Jane Austen
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/essay1))
+({{% resource_link 00a62fde-36d0-7a97-13fe-512834685fd9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +57,7 @@ Jane Austen
 Sir Walter Scott
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/essay2))
+({{% resource_link a2c50442-8300-9947-587b-556b644d1c02 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +72,7 @@ Sir Walter Scott
 Mary Shelley or Herman Melville
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/essay3))
+({{% resource_link 02e6100d-7207-fbc1-214c-93fc6eeff5f2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +87,7 @@ Mary Shelley or Herman Melville
 Gustave Flaubert or Kate Chopin
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/essay4))
+({{% resource_link 4bdd0dd2-e826-ea5d-59b0-edf22b01e10b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +102,7 @@ Gustave Flaubert or Kate Chopin
 Virginia Woolf
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/essay5))
+({{% resource_link d2518b57-5d8c-06a6-38b2-f468010b0566 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +149,7 @@ ORAL PRESENTATION SUBTOPICS
 {{< tdopen >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Austen, Jane. _Northanger Abbey._
 {{< tdclose >}}
 {{< tdopen >}}
@@ -174,7 +179,7 @@ Joseph Damer, Lord Milton
 {{< tdopen >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Scott, Sir Walter. _The Highland Widow._
 {{< tdclose >}}
 {{< tdopen >}}
@@ -201,7 +206,7 @@ The massacre of Glencoe
 {{< tdopen >}}
 9
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Shelley, Mary. _Frankenstein._
 {{< tdclose >}}
 {{< tdopen >}}
@@ -243,7 +248,7 @@ Joseph-Marie Degerando and the _Societe des Observateurs de l'Homme_
 {{< tdopen >}}
 13
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 _Typee._
 {{< tdclose >}}
 {{< tdopen >}}
@@ -264,7 +269,7 @@ Captain James Cook
 {{< tdopen >}}
 15
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Flaubert, Gustave. "A Simple Heart."
 {{< tdclose >}}
 {{< tdopen >}}
@@ -285,7 +290,7 @@ Corpus Christie festival
 {{< tdopen >}}
 17
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Chopin, Kate. _The Awakening._
 {{< tdclose >}}
 {{< tdopen >}}
@@ -315,7 +320,7 @@ Social Darwinism
 {{< tdopen >}}
 20
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Woolf, Virginia. _To the Lighthouse._
 {{< tdclose >}}
 {{< tdopen >}}
@@ -363,7 +368,7 @@ William Cowper, "The Castaway"
 {{< tdopen >}}
 25
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 MacLeod, Alistair. _No Great Mischief._
 {{< tdclose >}}
 {{< tdopen >}}

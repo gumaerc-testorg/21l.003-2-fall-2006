@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section features provides information on required texts, links to
+  their corresponding e-texts and audiobooks, and readings by session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: ed3a01c4-ba14-785d-c2f5-f8590798afd9
 ---
@@ -60,7 +65,7 @@ Introduction
 {{< tdopen >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Jane Austen
 {{< tdclose >}}
 {{< tdopen >}}
@@ -138,7 +143,7 @@ _Frankenstein_.
 {{< tdopen >}}
 12
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Herman Melville
 {{< tdclose >}}
 {{< tdopen >}}
@@ -192,7 +197,7 @@ _The Awakening_.
 {{< tdopen >}}
 20-22
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Virginia Woolf
 {{< tdclose >}}
 {{< tdopen >}}
