@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions for writing an essay assignment on Jane Austen.
 file: /courses/21l-003-2-reading-fiction-fall-2006/00a62fde36d07a9713fe512834685fd9_essay1.pdf
+file_size: 16200
 file_type: application/pdf
 learning_resource_types:
 - Assignments
