@@ -6,6 +6,7 @@ description: 'Sir Walter Scott, Jane Austen, and Herman Melville.  Works by thes
   [b&w glass neg.], LC-USZ62-103529 [b&w film copy neg.], LC-USZ62-135949 [b&w film
   copy neg.].).'
 file: /courses/21l-003-2-reading-fiction-fall-2006/c1c95e0a6d5494da0de6c17c853c8eaa_chp_authors.jpg
+file_size: 55685
 file_type: image/jpeg
 image_metadata:
   caption: ''
