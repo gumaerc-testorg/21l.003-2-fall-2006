@@ -5,7 +5,7 @@ description: 'Sir Walter Scott, Jane Austen, and Herman Melville.  Works by thes
   Prints and Photographs Division. Reproduction numbers, respectively: LC-D416-32682
   [b&w glass neg.], LC-USZ62-103529 [b&w film copy neg.], LC-USZ62-135949 [b&w film
   copy neg.].).'
-file: /ol-ocw-studio-app/courses/21l-003-2-reading-fiction-fall-2006/c1c95e0a6d5494da0de6c17c853c8eaa_chp_authors.jpg
+file: /courses/21l-003-2-reading-fiction-fall-2006/c1c95e0a6d5494da0de6c17c853c8eaa_chp_authors.jpg
 file_size: 55685
 file_type: image/jpeg
 image_metadata:
