@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for writing an essay assignment on Virginia Woolf.
-file: /courses/21l-003-2-reading-fiction-fall-2006/d2518b575d8c06a638b2f468010b0566_essay5.pdf
+file: /ol-ocw-studio-app/courses/21l-003-2-reading-fiction-fall-2006/d2518b575d8c06a638b2f468010b0566_essay5.pdf
 file_size: 14555
 file_type: application/pdf
 learning_resource_types:
