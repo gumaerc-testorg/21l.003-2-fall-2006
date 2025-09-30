@@ -14,17 +14,17 @@ This section features the required texts and several links to their correspondin
 Required Texts
 --------------
 
-Austen, Jane. _Northanger Abbey_. Any edition. The [e-text](http://www.gutenberg.org/etext/121) and [audiobook](http://www.gutenberg.org/etext/20682) are available at Project Gutenberg.
+Austen, Jane. _Northanger Abbey_. Any edition. The {{% resource_link "86bf18c0-7ee1-458d-b2bd-2e7a0918b0e9" "e-text" %}} and {{% resource_link "967c2290-baf1-4957-9202-6881a2bfd448" "audiobook" %}} are available at Project Gutenberg.
 
 Scott, Sir Walter. "The Highland Window." In _Chronicles of the Canongate_. New York, NY: Penguin Classics, 2003. ISBN: 9780140439892.
 
-Shelley, Mary. _Frankenstein_. Any edition. The [e-text](http://www.gutenberg.org/etext/84) and [audiobook](http://www.gutenberg.org/etext/6542) are available at Project Gutenberg.
+Shelley, Mary. _Frankenstein_. Any edition. The {{% resource_link "dbd58606-aeb2-48ba-bbcf-bb7d47a54d08" "e-text" %}} and {{% resource_link "b3f88c66-c8ca-4023-ab1d-c8e6a76f6af8" "audiobook" %}} are available at Project Gutenberg.
 
-Melville, Herman. _Typee_. Any edition. The [e-text](http://www.gutenberg.org/etext/84) and [audiobook](http://www.gutenberg.org/etext/6542) are available at Project Gutenberg.
+Melville, Herman. _Typee_. Any edition. The {{% resource_link "dbd58606-aeb2-48ba-bbcf-bb7d47a54d08" "e-text" %}} and {{% resource_link "b3f88c66-c8ca-4023-ab1d-c8e6a76f6af8" "audiobook" %}} are available at Project Gutenberg.
 
-Flaubert, Gustave. "A Simple Heart." In _Three Tales_. Translated by Roger Whitehouse. New York, NY: Penguin Classics, 2005. ISBN: 9780140448009. This text is also known as "A Simple Soul." The [e-text](http://www.gutenberg.org/etext/1253) is available at Project Gutenberg.
+Flaubert, Gustave. "A Simple Heart." In _Three Tales_. Translated by Roger Whitehouse. New York, NY: Penguin Classics, 2005. ISBN: 9780140448009. This text is also known as "A Simple Soul." The {{% resource_link "9b10ac11-8128-45cb-a633-4de3dd523e86" "e-text" %}} is available at Project Gutenberg.
 
-Chopin, Kate. _The Awakening_. Any edition. The [e-text](http://www.gutenberg.org/etext/160) is available at Project Gutenberg.
+Chopin, Kate. _The Awakening_. Any edition. The {{% resource_link "e6f4f4b9-e332-4a6d-b6d6-d594e1153b2b" "e-text" %}} is available at Project Gutenberg.
 
 Woolf, Virginia. _To the Lighthouse_. Any edition.
 
